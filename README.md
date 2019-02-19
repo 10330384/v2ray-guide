@@ -85,22 +85,7 @@ V2Ray 的用户手册非常详细地解释了 V2Ray，本指南主要以实际�
 - UDP 转发：VMess 是基于 TCP 的协议，对于 UDP 包 V2Ray 会转成 TCP 再传输的，即 UDP over TCP。要 UDP 转发功能在客户端的 socks 协议中开启 UDP 即可。
 - 路由器翻墙：实际上它们并没有什么区别，不要以为没有插件就不能在路由器上用，看事物请看本质。
 
-# AD：Bandwagonhost 购买推荐
+# [AD：Bandwagonhost 购买推荐](https://10330384.github.io/bandwagonhost-Links)
 
- Bandwagonhost CN2 GIA-E 2.5G DC6 $34/季度 
- （约￥77/月 三网电信CN2、2.5G大带宽）
 
-## [点击购买 CN2 GIA-E DC6](https://bwh8.net/aff.php?aff=40720&pid=87)
 
- Bandwagonhost CN2 GIA 1G DC9 $26/季度
- （约￥58/月 三网电信CN2、1G带宽）
-## [点击购买 CN2 GIA DC9](https://bwh8.net/aff.php?aff=40720&pid=72)
-
- Banwagonhost CN2 1G DC3 $30/半年
- （约￥35/月 电信CN2、1G带宽）
-## [点击购买 CN2 DC3](https://bwh8.net/aff.php?aff=40720&pid=57)
-  
-### Bandwagonhost CN2 GIA 1G DC9 $26/季度 暂时售罄 可通过 购买 [CN2 DC3](https://bwh8.net/aff.php?aff=40720&pid=57) 并按照下方图片进行升级
-
-![1](https://raw.githubusercontent.com/10330384/bandwagonhost-Links/master/setp1.jpg)
-![2](https://raw.githubusercontent.com/10330384/bandwagonhost-Links/master/step2.jpg)
