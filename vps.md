@@ -1,4 +1,5 @@
 # VPS推广  搬瓦工服务器推荐（带AFF）
+GCP线路都快被搞坏了，换个服务器压压惊？
 
 ## [点击购买 CN2 GIA-E DC6](https://bwh8.net/aff.php?aff=44160&pid=87)
  Bandwagonhost CN2 GIA-E 2.5G DC6 $34/季度 
