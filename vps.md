@@ -1,4 +1,4 @@
-# Bandwagonhost 推荐 （带AFF）
+# VPS推广  搬瓦工服务器推荐（带AFF）
 
 ## [点击购买 CN2 GIA-E DC6](https://bwh8.net/aff.php?aff=44160&pid=87)
  Bandwagonhost CN2 GIA-E 2.5G DC6 $34/季度 
@@ -19,3 +19,5 @@ Banwagonhost HongKong $49.99/年
 
   
 [back to home](README.md)
+
+本文所有内容来自互联网
