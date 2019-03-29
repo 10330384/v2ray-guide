@@ -18,4 +18,4 @@
 ![1](https://raw.githubusercontent.com/10330384/bandwagonhost-Links/master/setp1.jpg)
 ![2](https://raw.githubusercontent.com/10330384/bandwagonhost-Links/master/step2.jpg)
 
-[back to home](https://www.v2guidebooks.ml/vps)
+[back to home](https://www.v2guidebooks.ml/advanced/vps)
