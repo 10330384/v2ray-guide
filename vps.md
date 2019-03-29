@@ -15,6 +15,6 @@
 
 Banwagonhost HongKong $49.99/年
  （约￥560/月 电信CN2、1G带宽）
-## [点击购买 CN2 DC8](https://bwh8.net/aff.php?aff=44160&pid=64)
+## [点击购买 HK](https://bwh8.net/aff.php?aff=44160&pid=64)
   
 [back to home](README.md)
