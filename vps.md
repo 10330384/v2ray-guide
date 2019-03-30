@@ -23,6 +23,6 @@ Banwagonhost HongKong $49.99/年
  （约￥560/月 电信CN2、1G带宽）
 
   
-[back to home](README.md)
+[back to home](https://www.v2guidebooks.ml/README.md)
 
 本文所有内容来自互联网
