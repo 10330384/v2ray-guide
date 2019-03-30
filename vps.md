@@ -22,4 +22,6 @@ Banwagonhost HongKong $49.99/年
   
 [back to home](README.md)
 
+[Google](http://www.google.com/)
+
 本文所有内容来自互联网
