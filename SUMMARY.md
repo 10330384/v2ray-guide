@@ -40,5 +40,5 @@
     * [禁止 BT](routing/bittorrent.md)
     * [负载均衡 2](routing/balance2.md)
 * [推广](vps.md)
-* [DC6]https://bwh88.net/aff.php?aff=45608&pid=87)
+* [DC6](https://bwh88.net/aff.php?aff=45608&pid=87)
 * [DC9](https://bwh88.net/aff.php?aff=45608&pid=75)
