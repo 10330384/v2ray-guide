@@ -14,10 +14,5 @@
       "base": "https://github.com/toutyrater/v2ray-guide/edit/master",
       "label": "修订"
     }
-  },
-     "links" : {
-        "sidebar" : {
-            "My GitHub" : "https://github.com/ToutyRater"
-        }
-    }
+  }
 }
