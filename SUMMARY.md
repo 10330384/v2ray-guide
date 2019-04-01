@@ -39,4 +39,4 @@
     * [域名文件](routing/sitedata.md)
     * [禁止 BT](routing/bittorrent.md)
     * [负载均衡 2](routing/balance2.md)
-* [推广](vps.md)
+* [推广](http://price.way2guide.ml)
